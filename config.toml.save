@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+title = "？？？"
+baseURL = "https://interleukin2.github.io/blog/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
@@ -28,7 +28,7 @@ filename = "sitemap.xml"
 
 [params]
 text_color = ""
-author = ""
+author = "djealousy"
 favicon = ""
 site_logo = ""
 description = "The last theme you'll ever need. Maybe."
